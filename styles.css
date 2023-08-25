@@ -2855,7 +2855,7 @@ html {
       rgba(0, 0, 0, 0.6666666667),
       rgba(0, 0, 0, 0.6666666667)
     ),
-    url("../website/img/Background-img.jpg");
+    url("./img/Background-img.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
